@@ -76,7 +76,22 @@ Nothing overcomplicated — the goal was to write something clean and working wh
 
 ## Screenshots
 
-Screenshots will be added soon.
+A quick look at the game in action.
+
+**Game Start**
+![Game Start](screenshots/game-start.png)
+
+**Too High**
+![Too High](screenshots/too-high.png)
+
+**Too Low**
+![Too Low](screenshots/too-low.png)
+
+**Correct Guess**
+![Correct Guess](screenshots/correct-guess.png)
+
+**Final Score**
+![Final Score](screenshots/final-score.png)
 
 ---
 
